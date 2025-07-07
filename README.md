@@ -5,10 +5,10 @@
 
 --Questions answered--
 
-----a. Which are the most successful movies of Marvel Industry?----<br>
-----b. Which are the least successful movies of Marvel Industry?----<br>
-----c. Which factors affect the movies being one of the successful ones?----<br>
-----d. Which movie category actually is succesful?----<br>
+----a. Which are the most successful movies of Marvel Industry?<br>
+----b. Which are the least successful movies of Marvel Industry?<br>
+----c. Which factors affect the movies being one of the successful ones?<br>
+----d. Which movie category actually is succesful?<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 NOTE: All the questions above is answered according to the data provided in the dataset
